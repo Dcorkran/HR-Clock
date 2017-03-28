@@ -1,5 +1,7 @@
 # HR-Clock
 
+![Image of Hr-Clock Logo](http://i.imgur.com/qNMI44O.png)
+
 ## Summary
 An IoT project which allows users to set an alarm running on a Raspberry Pi from a mobile app built on React/Redux. Users cannot turn the alarm off until they connect to a heart rate monitor and reach a certain heart rate. 
 
